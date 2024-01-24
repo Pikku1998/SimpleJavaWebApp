@@ -3,7 +3,7 @@
 
 <head>
     <meta charset="UTF-8">
-    <title>Shopping Website</title>
+    <title>Prakash.Inc</title>
     <link rel="stylesheet" href="style.css">
 <style>
 	*{
@@ -89,7 +89,7 @@ h1{
     
     <section id="home">
         <header>
-            <span style="font-size:64px;margin-right:10px;color:orange">FlipKart Website</span>
+            <span style="font-size:64px;margin-right:10px;color:orange">Prakash Website</span>
             <ul id="menu">
 
                 <li><a href="#about">About Us</a></li>
